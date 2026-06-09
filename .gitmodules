@@ -1,0 +1,6 @@
+[submodule "Practice_SQL_QUERIES"]
+	path = Practice_SQL_QUERIES
+	url = https://github.com/Fouad-Showmik/Practice_SQL_QUERIES.git
+[submodule "practice_OOP_Java"]
+	path = practice_OOP_Java
+	url = https://github.com/Fouad-Showmik/practice_OOP_Java.git
