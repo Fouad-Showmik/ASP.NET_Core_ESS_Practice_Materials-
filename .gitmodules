@@ -4,3 +4,6 @@
 [submodule "practice_OOP_Java"]
 	path = practice_OOP_Java
 	url = https://github.com/Fouad-Showmik/practice_OOP_Java.git
+[submodule "Practice_C-Sharp"]
+	path = Practice_C-Sharp
+	url = https://github.com/Fouad-Showmik/Practice_C-Sharp.git
