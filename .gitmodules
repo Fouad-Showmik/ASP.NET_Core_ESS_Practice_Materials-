@@ -7,3 +7,6 @@
 [submodule "Practice_C-Sharp"]
 	path = Practice_C-Sharp
 	url = https://github.com/Fouad-Showmik/Practice_C-Sharp.git
+[submodule "Practice_CRUD_.Net_Core"]
+	path = Practice_CRUD_.Net_Core
+	url = https://github.com/Fouad-Showmik/Practice_CRUD_.Net_Core.git
